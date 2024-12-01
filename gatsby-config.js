@@ -13,7 +13,7 @@ module.exports = {
     description: `A simple site built with gatsby`,
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
-    pathPrefix: "/gatsby-site",
+    pathPrefix: "/Gatsby",
     plugins: ["gatsby-plugin-react-helmet"],
   },
   plugins: [
